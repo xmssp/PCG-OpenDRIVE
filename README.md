@@ -1,6 +1,6 @@
-#Procedure visualizing OpenDIRVE sample data sets in Three.js
+# Procedure visualizing OpenDIRVE sample data sets in Three.js
 
-##Run
+## Run
 ```
 $ npm install http-server
 $ cd dir/to/this/project
@@ -10,7 +10,7 @@ Then open the browser.
 
 The project provides a basic user interface to show/hide road reference lines, static/dynamic signals, and provide 5 data sets in total for visualization.
 
-##Notes
+## Notes
 
 The road network is procedurally generated in Three.js. It only exploits the mesh and basic material without specifying uvs for texturing.
 
@@ -18,7 +18,7 @@ The coordinate system used in this project is a right-handed Cartesian coordinat
 
 For more details about the cooridnate systems and other elements used in this project, please refert to the [OpenDRIVE V1.4 Format Specification](http://www.opendrive.org/docs/OpenDRIVEFormatSpecRev1.4H.pdf).
 
-##Known Issues
+## Known Issues
 
 All visible components in the scene is a mesh, including the grey road surface, elevated curbs, and road marks.
 
