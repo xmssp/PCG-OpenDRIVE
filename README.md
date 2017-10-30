@@ -14,9 +14,9 @@ The project provides a basic user interface to show/hide road reference lines, s
 
 The road network is procedurally generated in Three.js. It only exploits the mesh and basic material without specifying uvs for texturing.
 
-The coordinate system used in this project is a right-handed Cartesian coordinate system, with x-y plane representing the ground surface, z+ points up towards the sky. The initial view is the top view over the origin, with positive z pointing towards the screen (towards the user). For geographic reference, x points to the east; y points to the north; z points to up.
+The coordinate system used in this project is a right-handed Cartesian coordinate system, with x-y plane representing the ground surface, z+ pointing up towards the sky. The initial view is the top view over the origin, with positive z pointing towards the screen (towards the user). For geographic reference, x points to the east; y points to the north; z points to up.
 
-For more details about the cooridnate systems and other elements used in this project, please refert to the [OpenDRIVE V1.4 Format Specification](http://www.opendrive.org/docs/OpenDRIVEFormatSpecRev1.4H.pdf).
+For more details about the coordinate systems and other elements used in this project, please refert to the [OpenDRIVE V1.4 Format Specification](http://www.opendrive.org/docs/OpenDRIVEFormatSpecRev1.4H.pdf).
 
 ## Known Issues
 
