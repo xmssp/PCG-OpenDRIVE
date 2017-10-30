@@ -8,7 +8,7 @@ $ http-server .
 ```
 Then open the browser with the url specified by http-server. 
 
-The project provides a basic user interface to show/hide road reference lines, static/dynamic signals, and provide 5 data sets in total for visualization.
+The project provides a basic user interface to show/hide road reference lines, static/dynamic signals, and provide 4 data sets in total for visualization.
 
 ## Notes
 
