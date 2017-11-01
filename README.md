@@ -1,4 +1,4 @@
-# Procedure visualizing OpenDIRVE sample data sets in Three.js
+# Procedure visualizing OpenDRIVE sample data sets in Three.js
 
 ## Run
 ```
